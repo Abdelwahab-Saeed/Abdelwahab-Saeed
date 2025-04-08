@@ -19,6 +19,7 @@ Backend architecture and API design
 Databases (MongoDB, MySQL, Firestore)
 
 Looking to Collaborate On
+
 Full-stack web applications
 
 E-learning platforms
@@ -28,6 +29,7 @@ Real-time chat apps
 Open-source projects focused on education or productivity
 
 How to Reach Me
+
 Email: abdelwahabsaeed415@gmail.com
 
 GitHub: @Abdelwahab-Saeed
