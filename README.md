@@ -1,10 +1,13 @@
 Abdelwahab Saeed
+
 Full-Stack Developer | Passionate about Building Scalable Web Applications.
 
 About Me
+
 Enthusiastic and detail-oriented Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I’m passionate about crafting seamless, user-friendly digital experiences and building scalable, secure web applications.
 
 Interests
+
 Web development (Angular, React, Node.js, Express.js)
 
 Cloud technologies and Firebase integration
