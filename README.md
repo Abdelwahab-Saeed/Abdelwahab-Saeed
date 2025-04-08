@@ -2,11 +2,11 @@ Abdelwahab Saeed
 
 Full-Stack Developer | Passionate about Building Scalable Web Applications.
 
-About Me
+About Me:
 
 Enthusiastic and detail-oriented Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I’m passionate about crafting seamless, user-friendly digital experiences and building scalable, secure web applications.
 
-Interests
+Interests:
 
 Web development (Angular, React, Node.js, Express.js)
 
@@ -18,7 +18,7 @@ Backend architecture and API design
 
 Databases (MongoDB, MySQL, Firestore)
 
-Looking to Collaborate On
+Looking to Collaborate On:
 
 Full-stack web applications
 
@@ -28,7 +28,7 @@ Real-time chat apps
 
 Open-source projects focused on education or productivity
 
-How to Reach Me
+How to Reach Me:
 
 Email: abdelwahabsaeed415@gmail.com
 
