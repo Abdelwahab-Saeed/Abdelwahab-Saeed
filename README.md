@@ -8,15 +8,15 @@ Enthusiastic and detail-oriented Full-Stack Developer with a strong foundation i
 
 Interests:
 
-Web development (Angular, React, Node.js, Express.js)
+Web development (Angular, React, Vue js,Node.js, Express.js, Nest js, PHP, Laravel).
 
-Cloud technologies and Firebase integration
+Cloud technologies.
 
-UX/UI optimization and responsive design
+UX/UI optimization and responsive design.
 
-Backend architecture and API design
+Backend architecture and API design.
 
-Databases (MongoDB, MySQL, Firestore)
+Databases (MongoDB, MySQL, PostgreSQL) 
 
 Looking to Collaborate On:
 
